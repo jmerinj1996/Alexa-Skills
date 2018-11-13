@@ -10,5 +10,10 @@ This was super fun project to work on simply because you got to hear what you wr
 * Python Flask-Ask
 * Work with reddit and ngrok
 
-
+### 2. Deep Neural Network applied to sentiment dataset
+Here we build a deep neural network that is applied on positive and negative sentiment statements. This involved a little bit of natural language processing as well.
+##### Skills learnt : 
+* Using Tensorflow
+* Using nltk modules to tokenize and lemmatize sentiment data
+* Pickling
 
