@@ -1,4 +1,6 @@
 
+Based off of Sentdex Tutorial on https://www.pythonprogramming.net/
+
 This project is following an awesome 3-part series Sentdex tutorial series by Harrison Kinsley and also because I happen to be having an Amazon echo at home!
 
 Flask-Ask is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.
@@ -20,6 +22,7 @@ Ngrok exposes local servers behind NATs and firewalls to the public internet ove
 Run ngrok over http on port 5000 
 
 You need to create an Amazon Developer Account and don't sweat if you don't have an Amazon echo at home because Amazon provides you with an Alexa simulator.
+
 
 
 
