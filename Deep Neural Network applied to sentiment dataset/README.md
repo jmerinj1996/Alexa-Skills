@@ -1,3 +1,6 @@
+
+Based off of Sentdex Tutorial at https://www.pythonprogramming.net/
+
 A deep neural network as far as I understand it, is a neural network with more than one hidden layer.
 There are certain challenges we face in neural networks, hence it's safe to say it is not as simple as a Support Vector Machine
 * The first reason for this is that the optimization graph of a neural network is not as simple as an SVM. SVM has convex optimization.
