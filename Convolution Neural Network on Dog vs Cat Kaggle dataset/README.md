@@ -13,4 +13,4 @@ Here we use TFLearn which is a high level abstraction layer for TensorFlow. The 
 * The code becomes a lot less error prone
 
 To install the latest stable version of TFLearn :
-##### pip install tflearn
+#### pip install tflearn
