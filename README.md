@@ -17,3 +17,9 @@ Here we build a deep neural network that is applied on positive and negative sen
 * Using nltk modules to tokenize and lemmatize sentiment data
 * Pickling
 
+### 3.Convolution Neural Network on Dog vs Cat Kaggle dataset
+This project involves applying a convolution neural network on a Kaggle dataset. We used an abstraction layer over TensorFlow to make the code simple and less error prone.
+##### Skills learnt : 
+* Using TFLearn 
+* Using cv2
+* tqdm
